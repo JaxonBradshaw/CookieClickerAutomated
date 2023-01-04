@@ -1,0 +1,1 @@
+Project that automates "Cookie Clicker". Automatically clicks on cookie while purchasing upgrades when possible.
